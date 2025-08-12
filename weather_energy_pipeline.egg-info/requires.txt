@@ -1,0 +1,13 @@
+pandas>=2.0
+requests>=2.30
+PyYAML>=6.0
+python-dotenv>=1.0
+loguru>=0.7
+matplotlib>=3.8
+seaborn>=0.12
+aiohttp>=3.9
+pytz>=2024.1
+tqdm>=4.66
+typer[all]>=0.9
+fastapi>=0.110
+uvicorn>=0.23

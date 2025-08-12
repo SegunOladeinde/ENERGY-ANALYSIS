@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/analysis.py
+src/data_fetcher.py
+src/data_precessor.py
+src/pipeline.py
+tests/test_pipeline.py
+weather_energy_pipeline.egg-info/PKG-INFO
+weather_energy_pipeline.egg-info/SOURCES.txt
+weather_energy_pipeline.egg-info/dependency_links.txt
+weather_energy_pipeline.egg-info/requires.txt
+weather_energy_pipeline.egg-info/top_level.txt

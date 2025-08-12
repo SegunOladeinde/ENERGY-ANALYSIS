@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "weather-energy-pipeline"
+version = "0.1.0"
+description = "Pipeline to fetch, clean, and analyze historical weather and electricity demand data from NOAA and EIA APIs."
+authors = [
+    { name = "Segun Oladeinde", email = "youremail@example.com" }
+]
+readme = "README.md"
+requires-python = ">=3.9"
+
+dependencies = [
+    "pandas>=2.0",
+    "requests>=2.30",
+    "PyYAML>=6.0",
+    "python-dotenv>=1.0",
+    "loguru>=0.7",
+    "matplotlib>=3.8",
+    "seaborn>=0.12",
+    "aiohttp>=3.9",       # For async API fetches, if needed
+    "pytz>=2024.1",        # For timezone conversions
+    "tqdm>=4.66",          # For progress bars during data fetching
+    "typer[all]>=0.9",     # If using CLI tools (optional but recommended)
+    "fastapi>=0.110",      # Optional if you plan to expose pipeline via API
+    "uvicorn>=0.23"        # To run FastAPI if used
+]
+
+[tool.setuptools]
+packages = ["src"]
+
+[tool.black]
+line-length = 88
+target-version = ['py39']
+
+[tool.isort]
+profile = "black"

@@ -1,0 +1,25 @@
+﻿# Python / project
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtualenv
+venv/
+.venv/
+env/
+
+# Environment & secrets
+.env
+config/config.yaml
+
+# Data / outputs
+data/
+data/raw/
+data/processed/
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
