@@ -1,0 +1,45 @@
+settings:
+  days_back: 90
+
+cities:
+  new_york:
+    station_id: GHCND:USW00094728
+    eia_region: NYIS
+    timezone: America/New_York
+    state: NY
+    lat: 40.7128
+    lon: -74.0060
+  chicago:
+    station_id: GHCND:USW00094846
+    eia_region: PJM
+    timezone: America/Chicago
+    state: IL
+    lat: 41.8781
+    lon: -87.6298
+  houston:
+    station_id: GHCND:USW00012960
+    eia_region: ERCO
+    timezone: America/Chicago
+    state: TX
+    lat: 29.7604
+    lon: -95.3698
+  phoenix:
+    station_id: GHCND:USW00023183
+    eia_region: AZPS
+    timezone: America/Phoenix
+    state: AZ
+    lat: 33.4484
+    lon: -112.0740
+  seattle:
+    station_id: GHCND:USW00024233
+    eia_region: SCL
+    timezone: America/Los_Angeles
+    state: WA
+    lat: 47.6062
+    lon: -122.3321
+
+
+paths:
+  raw_data_dir: data/raw/
+  processed_data_dir: data/processed/
+  log_file: logs/pipeline.log
