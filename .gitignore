@@ -15,8 +15,8 @@ config/config.yaml
 
 # Data / outputs
 data/
-data/raw/
-data/processed/
+data/raw/*
+
 logs/
 *.log
 
