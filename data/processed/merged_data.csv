@@ -1,0 +1,436 @@
+datetime,city,tmax_f,tmin_f,avg_temp_f,respondent,respondent-name,type,type-name,energy_consumption_mw,value-units
+2025-05-15,chicago,38.19,34.5,36.34,PJM,"PJM Interconnection, LLC",D,Demand,96268,megawatthours
+2025-05-16,chicago,37.6,34.81,36.2,PJM,"PJM Interconnection, LLC",D,Demand,109374,megawatthours
+2025-05-17,chicago,35.91,34.2,35.05,PJM,"PJM Interconnection, LLC",D,Demand,103683,megawatthours
+2025-05-18,chicago,35.2,33.3,34.25,PJM,"PJM Interconnection, LLC",D,Demand,94162,megawatthours
+2025-05-19,chicago,34.3,33.1,33.7,PJM,"PJM Interconnection, LLC",D,Demand,89226,megawatthours
+2025-05-20,chicago,34.39,33.6,34.0,PJM,"PJM Interconnection, LLC",D,Demand,93456,megawatthours
+2025-05-21,chicago,34.0,33.6,33.8,PJM,"PJM Interconnection, LLC",D,Demand,89163,megawatthours
+2025-05-22,chicago,34.5,33.4,33.95,PJM,"PJM Interconnection, LLC",D,Demand,87940,megawatthours
+2025-05-23,chicago,35.29,33.01,34.15,PJM,"PJM Interconnection, LLC",D,Demand,86512,megawatthours
+2025-05-24,chicago,35.4,33.21,34.3,PJM,"PJM Interconnection, LLC",D,Demand,81868,megawatthours
+2025-05-25,chicago,35.4,33.49,34.45,PJM,"PJM Interconnection, LLC",D,Demand,78061,megawatthours
+2025-05-26,chicago,35.49,33.4,34.45,PJM,"PJM Interconnection, LLC",D,Demand,77247,megawatthours
+2025-05-27,chicago,35.71,34.0,34.86,PJM,"PJM Interconnection, LLC",D,Demand,82202,megawatthours
+2025-05-28,chicago,35.1,34.3,34.7,PJM,"PJM Interconnection, LLC",D,Demand,87642,megawatthours
+2025-05-29,chicago,35.8,34.11,34.95,PJM,"PJM Interconnection, LLC",D,Demand,87674,megawatthours
+2025-05-30,chicago,36.1,34.11,35.11,PJM,"PJM Interconnection, LLC",D,Demand,91119,megawatthours
+2025-05-31,chicago,35.2,33.8,34.5,PJM,"PJM Interconnection, LLC",D,Demand,90934,megawatthours
+2025-06-01,chicago,35.8,33.4,34.6,PJM,"PJM Interconnection, LLC",D,Demand,80593,megawatthours
+2025-06-02,chicago,37.2,33.8,35.5,PJM,"PJM Interconnection, LLC",D,Demand,81792,megawatthours
+2025-06-03,chicago,37.71,35.6,36.66,PJM,"PJM Interconnection, LLC",D,Demand,94629,megawatthours
+2025-06-04,chicago,35.91,34.3,35.1,PJM,"PJM Interconnection, LLC",D,Demand,106920,megawatthours
+2025-06-05,chicago,36.0,34.2,35.1,PJM,"PJM Interconnection, LLC",D,Demand,115211,megawatthours
+2025-06-06,chicago,36.5,34.5,35.5,PJM,"PJM Interconnection, LLC",D,Demand,113362,megawatthours
+2025-06-07,chicago,36.5,34.2,35.35,PJM,"PJM Interconnection, LLC",D,Demand,108467,megawatthours
+2025-06-08,chicago,36.9,34.7,35.8,PJM,"PJM Interconnection, LLC",D,Demand,102872,megawatthours
+2025-06-09,chicago,35.91,34.3,35.1,PJM,"PJM Interconnection, LLC",D,Demand,97196,megawatthours
+2025-06-10,chicago,36.61,34.3,35.45,PJM,"PJM Interconnection, LLC",D,Demand,103923,megawatthours
+2025-06-11,chicago,37.99,35.2,36.59,PJM,"PJM Interconnection, LLC",D,Demand,108576,megawatthours
+2025-06-12,chicago,36.7,35.01,35.86,PJM,"PJM Interconnection, LLC",D,Demand,119675,megawatthours
+2025-06-13,chicago,35.91,34.7,35.3,PJM,"PJM Interconnection, LLC",D,Demand,124223,megawatthours
+2025-06-14,chicago,36.39,34.59,35.49,PJM,"PJM Interconnection, LLC",D,Demand,109824,megawatthours
+2025-06-15,chicago,37.0,34.5,35.75,PJM,"PJM Interconnection, LLC",D,Demand,99933,megawatthours
+2025-06-16,chicago,37.6,34.9,36.25,PJM,"PJM Interconnection, LLC",D,Demand,96809,megawatthours
+2025-06-17,chicago,37.99,35.91,36.95,PJM,"PJM Interconnection, LLC",D,Demand,106453,megawatthours
+2025-06-18,chicago,36.9,35.4,36.15,PJM,"PJM Interconnection, LLC",D,Demand,117205,megawatthours
+2025-06-19,chicago,37.29,35.29,36.29,PJM,"PJM Interconnection, LLC",D,Demand,122047,megawatthours
+2025-06-20,chicago,37.4,35.71,36.55,PJM,"PJM Interconnection, LLC",D,Demand,114546,megawatthours
+2025-06-21,chicago,38.19,36.61,37.4,PJM,"PJM Interconnection, LLC",D,Demand,119183,megawatthours
+2025-06-22,chicago,38.19,36.81,37.5,PJM,"PJM Interconnection, LLC",D,Demand,132216,megawatthours
+2025-06-23,chicago,38.3,36.7,37.5,PJM,"PJM Interconnection, LLC",D,Demand,142419,megawatthours
+2025-06-24,chicago,38.19,36.19,37.19,PJM,"PJM Interconnection, LLC",D,Demand,158200,megawatthours
+2025-06-25,chicago,37.71,35.91,36.81,PJM,"PJM Interconnection, LLC",D,Demand,154755,megawatthours
+2025-06-26,chicago,38.19,36.5,37.34,PJM,"PJM Interconnection, LLC",D,Demand,145435,megawatthours
+2025-06-27,chicago,37.51,36.0,36.75,PJM,"PJM Interconnection, LLC",D,Demand,136730,megawatthours
+2025-06-28,chicago,37.8,35.6,36.7,PJM,"PJM Interconnection, LLC",D,Demand,116900,megawatthours
+2025-06-29,chicago,38.19,36.1,37.14,PJM,"PJM Interconnection, LLC",D,Demand,126106,megawatthours
+2025-06-30,chicago,37.8,36.19,36.99,PJM,"PJM Interconnection, LLC",D,Demand,135168,megawatthours
+2025-07-01,chicago,37.51,35.8,36.66,PJM,"PJM Interconnection, LLC",D,Demand,136132,megawatthours
+2025-07-02,chicago,37.9,35.91,36.91,PJM,"PJM Interconnection, LLC",D,Demand,126965,megawatthours
+2025-07-03,chicago,38.3,36.0,37.15,PJM,"PJM Interconnection, LLC",D,Demand,132113,megawatthours
+2025-07-04,chicago,37.99,36.19,37.09,PJM,"PJM Interconnection, LLC",D,Demand,132129,megawatthours
+2025-07-05,chicago,38.19,36.39,37.29,PJM,"PJM Interconnection, LLC",D,Demand,121176,megawatthours
+2025-07-06,chicago,37.29,35.4,36.34,PJM,"PJM Interconnection, LLC",D,Demand,128891,megawatthours
+2025-07-07,chicago,37.09,35.29,36.19,PJM,"PJM Interconnection, LLC",D,Demand,131702,megawatthours
+2025-07-08,chicago,37.2,35.71,36.45,PJM,"PJM Interconnection, LLC",D,Demand,135034,megawatthours
+2025-07-09,chicago,37.29,35.71,36.5,PJM,"PJM Interconnection, LLC",D,Demand,134164,megawatthours
+2025-07-10,chicago,37.29,35.49,36.39,PJM,"PJM Interconnection, LLC",D,Demand,130340,megawatthours
+2025-07-11,chicago,37.8,35.8,36.8,PJM,"PJM Interconnection, LLC",D,Demand,130838,megawatthours
+2025-07-12,chicago,37.2,35.71,36.45,PJM,"PJM Interconnection, LLC",D,Demand,139682,megawatthours
+2025-07-13,chicago,36.9,35.49,36.2,PJM,"PJM Interconnection, LLC",D,Demand,127815,megawatthours
+2025-07-14,chicago,37.51,35.4,36.45,PJM,"PJM Interconnection, LLC",D,Demand,129964,megawatthours
+2025-07-15,chicago,37.9,35.8,36.85,PJM,"PJM Interconnection, LLC",D,Demand,133676,megawatthours
+2025-07-16,chicago,37.8,35.8,36.8,PJM,"PJM Interconnection, LLC",D,Demand,140523,megawatthours
+2025-07-17,chicago,36.0,34.59,35.3,PJM,"PJM Interconnection, LLC",D,Demand,137252,megawatthours
+2025-07-18,chicago,36.81,34.59,35.7,PJM,"PJM Interconnection, LLC",D,Demand,138295,megawatthours
+2025-07-19,chicago,37.09,36.1,36.59,PJM,"PJM Interconnection, LLC",D,Demand,123410,megawatthours
+2025-07-20,chicago,36.3,35.4,35.85,PJM,"PJM Interconnection, LLC",D,Demand,118668,megawatthours
+2025-07-21,chicago,37.0,35.1,36.05,PJM,"PJM Interconnection, LLC",D,Demand,124874,megawatthours
+2025-07-22,chicago,37.4,35.71,36.55,PJM,"PJM Interconnection, LLC",D,Demand,128123,megawatthours
+2025-07-23,chicago,38.19,36.0,37.09,PJM,"PJM Interconnection, LLC",D,Demand,127230,megawatthours
+2025-07-24,chicago,37.99,36.19,37.09,PJM,"PJM Interconnection, LLC",D,Demand,137325,megawatthours
+2025-07-25,chicago,37.09,36.1,36.59,PJM,"PJM Interconnection, LLC",D,Demand,142381,megawatthours
+2025-07-26,chicago,37.09,36.1,36.59,PJM,"PJM Interconnection, LLC",D,Demand,137621,megawatthours
+2025-07-27,chicago,37.6,36.1,36.85,PJM,"PJM Interconnection, LLC",D,Demand,129471,megawatthours
+2025-07-28,chicago,37.99,36.3,37.14,PJM,"PJM Interconnection, LLC",D,Demand,130964,megawatthours
+2025-07-29,chicago,38.1,35.8,36.95,PJM,"PJM Interconnection, LLC",D,Demand,149174,megawatthours
+2025-07-30,chicago,36.81,35.6,36.2,PJM,"PJM Interconnection, LLC",D,Demand,150565,megawatthours
+2025-07-31,chicago,36.39,35.2,35.8,PJM,"PJM Interconnection, LLC",D,Demand,146378,megawatthours
+2025-08-01,chicago,36.3,34.9,35.6,PJM,"PJM Interconnection, LLC",D,Demand,118043,megawatthours
+2025-08-02,chicago,36.61,34.7,35.66,PJM,"PJM Interconnection, LLC",D,Demand,102205,megawatthours
+2025-08-03,chicago,36.7,34.9,35.8,PJM,"PJM Interconnection, LLC",D,Demand,100833,megawatthours
+2025-08-04,chicago,36.9,35.1,36.0,PJM,"PJM Interconnection, LLC",D,Demand,107434,megawatthours
+2025-08-05,chicago,37.09,35.29,36.19,PJM,"PJM Interconnection, LLC",D,Demand,120859,megawatthours
+2025-08-06,chicago,37.51,35.29,36.4,PJM,"PJM Interconnection, LLC",D,Demand,119623,megawatthours
+2025-08-07,chicago,37.9,36.1,37.0,PJM,"PJM Interconnection, LLC",D,Demand,117034,megawatthours
+2025-08-08,chicago,37.99,36.19,37.09,PJM,"PJM Interconnection, LLC",D,Demand,123108,megawatthours
+2025-08-09,chicago,38.3,36.39,37.34,PJM,"PJM Interconnection, LLC",D,Demand,123976,megawatthours
+2025-05-15,houston,38.3,36.5,37.4,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,75219,megawatthours
+2025-05-16,houston,38.1,36.9,37.5,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,70937,megawatthours
+2025-05-17,houston,38.19,36.7,37.45,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,70662,megawatthours
+2025-05-18,houston,37.99,36.9,37.45,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,70849,megawatthours
+2025-05-19,houston,37.99,36.81,37.4,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,67374,megawatthours
+2025-05-20,houston,38.41,36.9,37.66,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,69591,megawatthours
+2025-05-21,houston,37.71,36.39,37.05,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,70508,megawatthours
+2025-05-22,houston,38.19,36.5,37.34,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,69765,megawatthours
+2025-05-23,houston,38.19,36.39,37.29,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,72875,megawatthours
+2025-05-24,houston,38.41,36.81,37.61,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,75678,megawatthours
+2025-05-25,houston,38.3,37.0,37.65,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,74783,megawatthours
+2025-05-26,houston,37.6,35.8,36.7,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,74629,megawatthours
+2025-05-27,houston,37.9,35.6,36.75,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,61320,megawatthours
+2025-05-28,houston,37.0,36.0,36.5,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,68580,megawatthours
+2025-05-29,houston,38.19,35.91,37.05,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,63411,megawatthours
+2025-05-30,houston,37.71,36.3,37.0,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,70745,megawatthours
+2025-05-31,houston,37.8,36.3,37.05,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,63854,megawatthours
+2025-06-01,houston,38.1,36.0,37.05,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,67529,megawatthours
+2025-06-02,houston,38.1,36.3,37.2,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,71638,megawatthours
+2025-06-03,houston,37.8,36.19,36.99,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,74715,megawatthours
+2025-06-04,houston,37.99,36.7,37.34,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,73302,megawatthours
+2025-06-05,houston,38.19,36.39,37.29,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,68838,megawatthours
+2025-06-06,houston,38.3,36.81,37.55,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,75060,megawatthours
+2025-06-07,houston,38.5,36.7,37.6,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,75710,megawatthours
+2025-06-08,houston,38.61,36.7,37.66,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,74993,megawatthours
+2025-06-09,houston,38.19,36.0,37.09,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,75727,megawatthours
+2025-06-10,houston,38.1,36.5,37.3,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,75240,megawatthours
+2025-06-11,houston,37.09,36.19,36.64,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,69242,megawatthours
+2025-06-12,houston,36.9,35.91,36.41,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,62997,megawatthours
+2025-06-13,houston,37.99,36.1,37.05,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,63398,megawatthours
+2025-06-14,houston,38.1,36.5,37.3,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,74293,megawatthours
+2025-06-15,houston,38.19,36.1,37.14,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,73572,megawatthours
+2025-06-16,houston,37.99,36.19,37.09,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,62262,megawatthours
+2025-06-17,houston,38.3,36.5,37.4,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,74588,megawatthours
+2025-06-18,houston,38.3,36.7,37.5,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,75851,megawatthours
+2025-06-19,houston,38.3,36.7,37.5,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,75716,megawatthours
+2025-06-20,houston,38.41,36.7,37.55,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,76724,megawatthours
+2025-06-21,houston,38.41,36.9,37.66,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,76582,megawatthours
+2025-06-22,houston,38.19,36.61,37.4,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,74762,megawatthours
+2025-06-23,houston,38.19,36.61,37.4,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,75761,megawatthours
+2025-06-24,houston,38.41,36.5,37.45,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,76373,megawatthours
+2025-06-25,houston,37.71,36.39,37.05,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,75505,megawatthours
+2025-06-26,houston,38.3,36.39,37.34,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,71557,megawatthours
+2025-06-27,houston,38.19,36.3,37.24,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,72848,megawatthours
+2025-06-28,houston,38.3,36.3,37.3,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,75477,megawatthours
+2025-06-29,houston,38.1,36.39,37.25,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,76267,megawatthours
+2025-06-30,houston,38.19,36.19,37.19,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,73451,megawatthours
+2025-07-01,houston,38.5,36.3,37.4,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,72362,megawatthours
+2025-07-02,houston,38.41,36.5,37.45,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,72703,megawatthours
+2025-07-03,houston,38.19,36.3,37.24,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,70576,megawatthours
+2025-07-04,houston,37.9,36.3,37.1,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,64329,megawatthours
+2025-07-05,houston,38.19,36.61,37.4,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,63456,megawatthours
+2025-07-06,houston,38.41,36.39,37.4,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,63431,megawatthours
+2025-07-07,houston,38.3,36.61,37.45,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,68493,megawatthours
+2025-07-08,houston,37.9,36.1,37.0,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,73463,megawatthours
+2025-07-09,houston,37.9,36.1,37.0,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,69673,megawatthours
+2025-07-10,houston,38.3,36.61,37.45,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,72852,megawatthours
+2025-07-11,houston,38.1,36.7,37.4,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,76129,megawatthours
+2025-07-12,houston,38.3,36.7,37.5,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,73955,megawatthours
+2025-07-13,houston,38.3,36.39,37.34,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,71081,megawatthours
+2025-07-14,houston,37.99,36.19,37.09,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,68344,megawatthours
+2025-07-15,houston,38.3,36.39,37.34,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,74525,megawatthours
+2025-07-16,houston,38.5,36.7,37.6,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,77169,megawatthours
+2025-07-17,houston,37.99,36.3,37.14,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,78100,megawatthours
+2025-07-18,houston,38.19,36.7,37.45,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,77204,megawatthours
+2025-07-19,houston,38.41,36.61,37.51,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,77038,megawatthours
+2025-07-20,houston,38.5,36.7,37.6,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,76765,megawatthours
+2025-07-21,houston,38.61,36.81,37.71,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,76922,megawatthours
+2025-07-22,houston,38.8,36.5,37.65,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,78977,megawatthours
+2025-07-23,houston,38.7,36.39,37.55,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,79344,megawatthours
+2025-07-24,houston,38.7,36.81,37.76,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,80502,megawatthours
+2025-07-25,houston,37.99,36.61,37.3,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,80965,megawatthours
+2025-07-26,houston,37.99,36.5,37.25,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,75865,megawatthours
+2025-07-27,houston,38.3,36.5,37.4,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,74235,megawatthours
+2025-07-28,houston,38.61,36.61,37.61,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,76428,megawatthours
+2025-07-29,houston,38.7,36.81,37.76,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,80964,megawatthours
+2025-07-30,houston,38.89,36.81,37.85,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,81386,megawatthours
+2025-07-31,houston,38.3,37.09,37.7,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,81037,megawatthours
+2025-08-01,houston,38.5,37.0,37.75,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,81455,megawatthours
+2025-08-02,houston,37.99,36.61,37.3,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,79606,megawatthours
+2025-08-03,houston,38.61,36.61,37.61,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,73116,megawatthours
+2025-08-04,houston,37.9,36.39,37.14,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,76902,megawatthours
+2025-08-05,houston,38.41,36.5,37.45,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,75379,megawatthours
+2025-08-06,houston,38.8,36.5,37.65,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,79614,megawatthours
+2025-08-07,houston,38.8,36.61,37.7,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,79979,megawatthours
+2025-08-08,houston,38.8,36.7,37.75,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,81431,megawatthours
+2025-08-09,houston,38.61,36.61,37.61,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,81793,megawatthours
+2025-05-15,new_york,35.71,34.7,35.2,NYIS,New York Independent System Operator,D,Demand,17403,megawatthours
+2025-05-16,new_york,36.0,34.9,35.45,NYIS,New York Independent System Operator,D,Demand,18206,megawatthours
+2025-05-17,new_york,37.0,35.1,36.05,NYIS,New York Independent System Operator,D,Demand,18176,megawatthours
+2025-05-18,new_york,36.1,34.9,35.5,NYIS,New York Independent System Operator,D,Demand,17838,megawatthours
+2025-05-19,new_york,35.71,33.91,34.81,NYIS,New York Independent System Operator,D,Demand,16628,megawatthours
+2025-05-20,new_york,35.49,33.69,34.59,NYIS,New York Independent System Operator,D,Demand,16851,megawatthours
+2025-05-21,new_york,34.7,33.69,34.2,NYIS,New York Independent System Operator,D,Demand,16577,megawatthours
+2025-05-22,new_york,33.91,33.6,33.75,NYIS,New York Independent System Operator,D,Demand,17007,megawatthours
+2025-05-23,new_york,35.1,33.49,34.3,NYIS,New York Independent System Operator,D,Demand,17123,megawatthours
+2025-05-24,new_york,35.2,33.6,34.4,NYIS,New York Independent System Operator,D,Demand,16438,megawatthours
+2025-05-25,new_york,35.4,34.0,34.7,NYIS,New York Independent System Operator,D,Demand,15244,megawatthours
+2025-05-26,new_york,36.1,34.0,35.05,NYIS,New York Independent System Operator,D,Demand,14836,megawatthours
+2025-05-27,new_york,36.19,34.5,35.34,NYIS,New York Independent System Operator,D,Demand,15610,megawatthours
+2025-05-28,new_york,35.29,34.0,34.64,NYIS,New York Independent System Operator,D,Demand,17178,megawatthours
+2025-05-29,new_york,35.49,34.3,34.89,NYIS,New York Independent System Operator,D,Demand,16848,megawatthours
+2025-05-30,new_york,36.3,35.01,35.66,NYIS,New York Independent System Operator,D,Demand,16812,megawatthours
+2025-05-31,new_york,35.49,34.11,34.8,NYIS,New York Independent System Operator,D,Demand,17204,megawatthours
+2025-06-01,new_york,35.4,33.8,34.6,NYIS,New York Independent System Operator,D,Demand,15610,megawatthours
+2025-06-02,new_york,35.91,34.11,35.01,NYIS,New York Independent System Operator,D,Demand,15335,megawatthours
+2025-06-03,new_york,36.7,34.39,35.55,NYIS,New York Independent System Operator,D,Demand,16650,megawatthours
+2025-06-04,new_york,37.09,35.01,36.05,NYIS,New York Independent System Operator,D,Demand,18126,megawatthours
+2025-06-05,new_york,37.51,35.8,36.66,NYIS,New York Independent System Operator,D,Demand,20733,megawatthours
+2025-06-06,new_york,37.2,35.91,36.55,NYIS,New York Independent System Operator,D,Demand,22614,megawatthours
+2025-06-07,new_york,36.39,35.4,35.89,NYIS,New York Independent System Operator,D,Demand,21096,megawatthours
+2025-06-08,new_york,36.39,35.1,35.75,NYIS,New York Independent System Operator,D,Demand,18964,megawatthours
+2025-06-09,new_york,35.2,35.01,35.11,NYIS,New York Independent System Operator,D,Demand,18030,megawatthours
+2025-06-10,new_york,36.1,35.01,35.55,NYIS,New York Independent System Operator,D,Demand,18135,megawatthours
+2025-06-11,new_york,36.9,35.29,36.09,NYIS,New York Independent System Operator,D,Demand,18730,megawatthours
+2025-06-12,new_york,37.51,35.8,36.66,NYIS,New York Independent System Operator,D,Demand,20643,megawatthours
+2025-06-13,new_york,36.61,35.49,36.05,NYIS,New York Independent System Operator,D,Demand,22153,megawatthours
+2025-06-14,new_york,35.6,34.7,35.15,NYIS,New York Independent System Operator,D,Demand,19044,megawatthours
+2025-06-15,new_york,35.2,34.7,34.95,NYIS,New York Independent System Operator,D,Demand,16333,megawatthours
+2025-06-16,new_york,35.71,34.81,35.26,NYIS,New York Independent System Operator,D,Demand,16349,megawatthours
+2025-06-17,new_york,35.49,35.01,35.25,NYIS,New York Independent System Operator,D,Demand,18400,megawatthours
+2025-06-18,new_york,37.2,35.29,36.25,NYIS,New York Independent System Operator,D,Demand,18988,megawatthours
+2025-06-19,new_york,37.6,35.8,36.7,NYIS,New York Independent System Operator,D,Demand,21993,megawatthours
+2025-06-20,new_york,37.0,35.49,36.25,NYIS,New York Independent System Operator,D,Demand,23594,megawatthours
+2025-06-21,new_york,37.4,36.0,36.7,NYIS,New York Independent System Operator,D,Demand,21455,megawatthours
+2025-06-22,new_york,37.6,35.91,36.75,NYIS,New York Independent System Operator,D,Demand,22822,megawatthours
+2025-06-23,new_york,38.41,36.81,37.61,NYIS,New York Independent System Operator,D,Demand,26174,megawatthours
+2025-06-24,new_york,38.7,36.9,37.8,NYIS,New York Independent System Operator,D,Demand,29801,megawatthours
+2025-06-25,new_york,38.41,36.9,37.66,NYIS,New York Independent System Operator,D,Demand,31720,megawatthours
+2025-06-26,new_york,37.29,35.4,36.34,NYIS,New York Independent System Operator,D,Demand,30324,megawatthours
+2025-06-27,new_york,36.0,35.01,35.5,NYIS,New York Independent System Operator,D,Demand,20194,megawatthours
+2025-06-28,new_york,37.09,35.1,36.09,NYIS,New York Independent System Operator,D,Demand,18943,megawatthours
+2025-06-29,new_york,37.71,36.5,37.11,NYIS,New York Independent System Operator,D,Demand,22683,megawatthours
+2025-06-30,new_york,37.8,35.91,36.85,NYIS,New York Independent System Operator,D,Demand,24560,megawatthours
+2025-07-01,new_york,37.71,36.0,36.86,NYIS,New York Independent System Operator,D,Demand,26622,megawatthours
+2025-07-02,new_york,37.2,35.91,36.55,NYIS,New York Independent System Operator,D,Demand,25459,megawatthours
+2025-07-03,new_york,37.6,35.71,36.66,NYIS,New York Independent System Operator,D,Demand,24882,megawatthours
+2025-07-04,new_york,37.09,35.49,36.29,NYIS,New York Independent System Operator,D,Demand,22366,megawatthours
+2025-07-05,new_york,37.2,35.6,36.4,NYIS,New York Independent System Operator,D,Demand,20518,megawatthours
+2025-07-06,new_york,37.51,36.0,36.75,NYIS,New York Independent System Operator,D,Demand,23150,megawatthours
+2025-07-07,new_york,37.51,36.39,36.95,NYIS,New York Independent System Operator,D,Demand,26082,megawatthours
+2025-07-08,new_york,38.1,36.1,37.1,NYIS,New York Independent System Operator,D,Demand,26762,megawatthours
+2025-07-09,new_york,37.8,36.1,36.95,NYIS,New York Independent System Operator,D,Demand,27247,megawatthours
+2025-07-10,new_york,37.2,35.8,36.5,NYIS,New York Independent System Operator,D,Demand,27086,megawatthours
+2025-07-11,new_york,37.2,36.1,36.65,NYIS,New York Independent System Operator,D,Demand,25335,megawatthours
+2025-07-12,new_york,37.09,36.19,36.64,NYIS,New York Independent System Operator,D,Demand,25927,megawatthours
+2025-07-13,new_york,37.09,35.91,36.5,NYIS,New York Independent System Operator,D,Demand,24643,megawatthours
+2025-07-14,new_york,37.29,36.1,36.7,NYIS,New York Independent System Operator,D,Demand,25010,megawatthours
+2025-07-15,new_york,37.4,36.0,36.7,NYIS,New York Independent System Operator,D,Demand,25778,megawatthours
+2025-07-16,new_york,37.51,36.5,37.0,NYIS,New York Independent System Operator,D,Demand,27745,megawatthours
+2025-07-17,new_york,37.8,36.3,37.05,NYIS,New York Independent System Operator,D,Demand,28596,megawatthours
+2025-07-18,new_york,37.0,36.1,36.55,NYIS,New York Independent System Operator,D,Demand,28113,megawatthours
+2025-07-19,new_york,36.9,35.71,36.3,NYIS,New York Independent System Operator,D,Demand,23209,megawatthours
+2025-07-20,new_york,37.6,36.3,36.95,NYIS,New York Independent System Operator,D,Demand,22646,megawatthours
+2025-07-21,new_york,37.29,35.91,36.6,NYIS,New York Independent System Operator,D,Demand,25242,megawatthours
+2025-07-22,new_york,36.9,35.49,36.2,NYIS,New York Independent System Operator,D,Demand,23332,megawatthours
+2025-07-23,new_york,36.81,35.71,36.26,NYIS,New York Independent System Operator,D,Demand,21648,megawatthours
+2025-07-24,new_york,37.51,35.8,36.66,NYIS,New York Independent System Operator,D,Demand,23823,megawatthours
+2025-07-25,new_york,38.3,36.39,37.34,NYIS,New York Independent System Operator,D,Demand,27143,megawatthours
+2025-07-26,new_york,37.29,36.19,36.74,NYIS,New York Independent System Operator,D,Demand,26821,megawatthours
+2025-07-27,new_york,37.2,36.1,36.65,NYIS,New York Independent System Operator,D,Demand,23170,megawatthours
+2025-07-28,new_york,38.19,36.39,37.29,NYIS,New York Independent System Operator,D,Demand,24950,megawatthours
+2025-07-29,new_york,38.5,36.61,37.55,NYIS,New York Independent System Operator,D,Demand,29187,megawatthours
+2025-07-30,new_york,38.3,36.3,37.3,NYIS,New York Independent System Operator,D,Demand,30400,megawatthours
+2025-07-31,new_york,37.71,35.29,36.5,NYIS,New York Independent System Operator,D,Demand,28567,megawatthours
+2025-08-01,new_york,36.1,35.1,35.6,NYIS,New York Independent System Operator,D,Demand,22052,megawatthours
+2025-08-02,new_york,36.81,35.1,35.95,NYIS,New York Independent System Operator,D,Demand,19429,megawatthours
+2025-08-03,new_york,37.2,35.2,36.2,NYIS,New York Independent System Operator,D,Demand,19289,megawatthours
+2025-08-04,new_york,37.71,35.49,36.6,NYIS,New York Independent System Operator,D,Demand,20963,megawatthours
+2025-08-05,new_york,37.4,35.91,36.66,NYIS,New York Independent System Operator,D,Demand,23991,megawatthours
+2025-08-06,new_york,36.7,35.2,35.95,NYIS,New York Independent System Operator,D,Demand,23902,megawatthours
+2025-08-07,new_york,36.9,35.2,36.05,NYIS,New York Independent System Operator,D,Demand,21908,megawatthours
+2025-08-08,new_york,37.0,35.1,36.05,NYIS,New York Independent System Operator,D,Demand,22177,megawatthours
+2025-08-09,new_york,37.29,35.2,36.25,NYIS,New York Independent System Operator,D,Demand,22246,megawatthours
+2025-05-15,phoenix,37.71,35.29,36.5,AZPS,Arizona Public Service Company,D,Demand,3797,megawatthours
+2025-05-16,phoenix,38.19,35.49,36.84,AZPS,Arizona Public Service Company,D,Demand,4211,megawatthours
+2025-05-17,phoenix,38.3,35.8,37.05,AZPS,Arizona Public Service Company,D,Demand,4196,megawatthours
+2025-05-18,phoenix,37.4,35.49,36.45,AZPS,Arizona Public Service Company,D,Demand,3798,megawatthours
+2025-05-19,phoenix,38.19,35.8,36.99,AZPS,Arizona Public Service Company,D,Demand,3799,megawatthours
+2025-05-20,phoenix,38.7,35.8,37.25,AZPS,Arizona Public Service Company,D,Demand,4487,megawatthours
+2025-05-21,phoenix,39.0,35.91,37.45,AZPS,Arizona Public Service Company,D,Demand,4955,megawatthours
+2025-05-22,phoenix,39.4,36.19,37.8,AZPS,Arizona Public Service Company,D,Demand,5549,megawatthours
+2025-05-23,phoenix,39.09,36.19,37.64,AZPS,Arizona Public Service Company,D,Demand,5341,megawatthours
+2025-05-24,phoenix,38.8,36.3,37.55,AZPS,Arizona Public Service Company,D,Demand,5045,megawatthours
+2025-05-25,phoenix,38.61,36.1,37.36,AZPS,Arizona Public Service Company,D,Demand,4551,megawatthours
+2025-05-26,phoenix,38.8,36.1,37.45,AZPS,Arizona Public Service Company,D,Demand,4627,megawatthours
+2025-05-27,phoenix,38.89,36.3,37.59,AZPS,Arizona Public Service Company,D,Demand,4790,megawatthours
+2025-05-28,phoenix,39.09,36.19,37.64,AZPS,Arizona Public Service Company,D,Demand,5155,megawatthours
+2025-05-29,phoenix,38.89,36.7,37.8,AZPS,Arizona Public Service Company,D,Demand,5184,megawatthours
+2025-05-30,phoenix,39.2,36.1,37.65,AZPS,Arizona Public Service Company,D,Demand,5095,megawatthours
+2025-05-31,phoenix,39.0,37.0,38.0,AZPS,Arizona Public Service Company,D,Demand,5787,megawatthours
+2025-06-01,phoenix,37.9,35.71,36.8,AZPS,Arizona Public Service Company,D,Demand,5805,megawatthours
+2025-06-02,phoenix,37.71,35.49,36.6,AZPS,Arizona Public Service Company,D,Demand,4362,megawatthours
+2025-06-03,phoenix,38.5,36.61,37.55,AZPS,Arizona Public Service Company,D,Demand,4379,megawatthours
+2025-06-04,phoenix,38.3,36.3,37.3,AZPS,Arizona Public Service Company,D,Demand,5194,megawatthours
+2025-06-05,phoenix,38.89,36.61,37.75,AZPS,Arizona Public Service Company,D,Demand,4785,megawatthours
+2025-06-06,phoenix,39.2,36.81,38.01,AZPS,Arizona Public Service Company,D,Demand,5245,megawatthours
+2025-06-07,phoenix,39.2,36.81,38.01,AZPS,Arizona Public Service Company,D,Demand,5529,megawatthours
+2025-06-08,phoenix,39.51,36.7,38.11,AZPS,Arizona Public Service Company,D,Demand,5535,megawatthours
+2025-06-09,phoenix,39.7,36.81,38.26,AZPS,Arizona Public Service Company,D,Demand,5823,megawatthours
+2025-06-10,phoenix,39.6,36.9,38.25,AZPS,Arizona Public Service Company,D,Demand,6061,megawatthours
+2025-06-11,phoenix,39.6,37.09,38.34,AZPS,Arizona Public Service Company,D,Demand,6100,megawatthours
+2025-06-12,phoenix,39.6,37.2,38.4,AZPS,Arizona Public Service Company,D,Demand,6081,megawatthours
+2025-06-13,phoenix,39.6,37.0,38.3,AZPS,Arizona Public Service Company,D,Demand,5827,megawatthours
+2025-06-14,phoenix,39.79,37.0,38.39,AZPS,Arizona Public Service Company,D,Demand,5919,megawatthours
+2025-06-15,phoenix,40.21,36.9,38.55,AZPS,Arizona Public Service Company,D,Demand,6523,megawatthours
+2025-06-16,phoenix,40.21,37.09,38.65,AZPS,Arizona Public Service Company,D,Demand,7033,megawatthours
+2025-06-17,phoenix,39.79,37.4,38.59,AZPS,Arizona Public Service Company,D,Demand,7137,megawatthours
+2025-06-18,phoenix,40.21,37.09,38.65,AZPS,Arizona Public Service Company,D,Demand,7017,megawatthours
+2025-06-19,phoenix,40.5,37.29,38.89,AZPS,Arizona Public Service Company,D,Demand,7384,megawatthours
+2025-06-20,phoenix,39.79,37.2,38.5,AZPS,Arizona Public Service Company,D,Demand,7239,megawatthours
+2025-06-21,phoenix,39.4,37.0,38.2,AZPS,Arizona Public Service Company,D,Demand,6067,megawatthours
+2025-06-22,phoenix,38.7,36.7,37.7,AZPS,Arizona Public Service Company,D,Demand,5730,megawatthours
+2025-06-23,phoenix,39.2,36.81,38.01,AZPS,Arizona Public Service Company,D,Demand,5368,megawatthours
+2025-06-24,phoenix,39.31,36.9,38.11,AZPS,Arizona Public Service Company,D,Demand,5493,megawatthours
+2025-06-25,phoenix,39.09,36.7,37.9,AZPS,Arizona Public Service Company,D,Demand,5582,megawatthours
+2025-06-26,phoenix,39.31,36.9,38.11,AZPS,Arizona Public Service Company,D,Demand,5825,megawatthours
+2025-06-27,phoenix,39.51,37.0,38.25,AZPS,Arizona Public Service Company,D,Demand,6291,megawatthours
+2025-06-28,phoenix,39.7,37.51,38.61,AZPS,Arizona Public Service Company,D,Demand,6694,megawatthours
+2025-06-29,phoenix,40.21,37.51,38.86,AZPS,Arizona Public Service Company,D,Demand,7055,megawatthours
+2025-06-30,phoenix,40.41,37.8,39.1,AZPS,Arizona Public Service Company,D,Demand,7510,megawatthours
+2025-07-01,phoenix,39.99,38.1,39.05,AZPS,Arizona Public Service Company,D,Demand,7940,megawatthours
+2025-07-02,phoenix,39.7,36.61,38.16,AZPS,Arizona Public Service Company,D,Demand,7612,megawatthours
+2025-07-03,phoenix,39.0,36.61,37.8,AZPS,Arizona Public Service Company,D,Demand,6831,megawatthours
+2025-07-04,phoenix,39.09,37.0,38.05,AZPS,Arizona Public Service Company,D,Demand,5780,megawatthours
+2025-07-05,phoenix,39.51,37.4,38.45,AZPS,Arizona Public Service Company,D,Demand,5804,megawatthours
+2025-07-06,phoenix,39.79,37.4,38.59,AZPS,Arizona Public Service Company,D,Demand,6498,megawatthours
+2025-07-07,phoenix,39.9,37.9,38.9,AZPS,Arizona Public Service Company,D,Demand,7124,megawatthours
+2025-07-08,phoenix,39.99,37.99,38.99,AZPS,Arizona Public Service Company,D,Demand,7228,megawatthours
+2025-07-09,phoenix,40.6,38.1,39.35,AZPS,Arizona Public Service Company,D,Demand,7618,megawatthours
+2025-07-10,phoenix,40.1,38.3,39.2,AZPS,Arizona Public Service Company,D,Demand,8184,megawatthours
+2025-07-11,phoenix,39.9,37.8,38.85,AZPS,Arizona Public Service Company,D,Demand,7730,megawatthours
+2025-07-12,phoenix,39.6,37.6,38.6,AZPS,Arizona Public Service Company,D,Demand,7490,megawatthours
+2025-07-13,phoenix,39.6,37.8,38.7,AZPS,Arizona Public Service Company,D,Demand,7081,megawatthours
+2025-07-14,phoenix,39.51,37.8,38.66,AZPS,Arizona Public Service Company,D,Demand,6877,megawatthours
+2025-07-15,phoenix,39.51,37.4,38.45,AZPS,Arizona Public Service Company,D,Demand,7199,megawatthours
+2025-07-16,phoenix,38.5,37.09,37.8,AZPS,Arizona Public Service Company,D,Demand,6864,megawatthours
+2025-07-17,phoenix,38.89,36.81,37.85,AZPS,Arizona Public Service Company,D,Demand,6029,megawatthours
+2025-07-18,phoenix,39.6,37.6,38.6,AZPS,Arizona Public Service Company,D,Demand,6881,megawatthours
+2025-07-19,phoenix,39.51,37.51,38.51,AZPS,Arizona Public Service Company,D,Demand,6954,megawatthours
+2025-07-20,phoenix,38.5,37.8,38.15,AZPS,Arizona Public Service Company,D,Demand,6545,megawatthours
+2025-07-21,phoenix,39.2,37.29,38.25,AZPS,Arizona Public Service Company,D,Demand,4905,megawatthours
+2025-07-22,phoenix,39.0,37.2,38.1,AZPS,Arizona Public Service Company,D,Demand,6056,megawatthours
+2025-07-23,phoenix,39.2,37.29,38.25,AZPS,Arizona Public Service Company,D,Demand,6052,megawatthours
+2025-07-24,phoenix,39.4,36.81,38.11,AZPS,Arizona Public Service Company,D,Demand,6138,megawatthours
+2025-07-25,phoenix,39.7,36.81,38.26,AZPS,Arizona Public Service Company,D,Demand,6598,megawatthours
+2025-07-26,phoenix,39.51,36.9,38.2,AZPS,Arizona Public Service Company,D,Demand,6150,megawatthours
+2025-07-27,phoenix,39.79,37.0,38.39,AZPS,Arizona Public Service Company,D,Demand,6004,megawatthours
+2025-07-28,phoenix,40.1,37.4,38.75,AZPS,Arizona Public Service Company,D,Demand,6596,megawatthours
+2025-07-29,phoenix,39.79,37.6,38.7,AZPS,Arizona Public Service Company,D,Demand,7245,megawatthours
+2025-07-30,phoenix,39.9,37.51,38.7,AZPS,Arizona Public Service Company,D,Demand,7282,megawatthours
+2025-07-31,phoenix,39.9,37.6,38.75,AZPS,Arizona Public Service Company,D,Demand,7411,megawatthours
+2025-08-01,phoenix,40.1,37.99,39.05,AZPS,Arizona Public Service Company,D,Demand,2004,megawatthours
+2025-08-02,phoenix,40.21,37.8,39.0,AZPS,Arizona Public Service Company,D,Demand,7593,megawatthours
+2025-08-03,phoenix,39.99,37.2,38.59,AZPS,Arizona Public Service Company,D,Demand,7396,megawatthours
+2025-08-04,phoenix,39.99,37.51,38.75,AZPS,Arizona Public Service Company,D,Demand,7140,megawatthours
+2025-08-05,phoenix,40.21,37.8,39.0,AZPS,Arizona Public Service Company,D,Demand,7317,megawatthours
+2025-08-06,phoenix,40.41,37.9,39.16,AZPS,Arizona Public Service Company,D,Demand,7734,megawatthours
+2025-08-07,phoenix,40.6,38.19,39.39,AZPS,Arizona Public Service Company,D,Demand,7941,megawatthours
+2025-08-08,phoenix,40.21,37.99,39.1,AZPS,Arizona Public Service Company,D,Demand,8387,megawatthours
+2025-08-09,phoenix,39.79,37.99,38.89,AZPS,Arizona Public Service Company,D,Demand,7986,megawatthours
+2025-05-15,seattle,34.39,33.21,33.8,SCL,Seattle City Light,D,Demand,1008,megawatthours
+2025-05-16,seattle,34.7,33.6,34.15,SCL,Seattle City Light,D,Demand,1021,megawatthours
+2025-05-17,seattle,35.01,33.6,34.3,SCL,Seattle City Light,D,Demand,1034,megawatthours
+2025-05-18,seattle,35.01,33.3,34.16,SCL,Seattle City Light,D,Demand,985,megawatthours
+2025-05-19,seattle,34.9,33.49,34.2,SCL,Seattle City Light,D,Demand,981,megawatthours
+2025-05-20,seattle,34.81,33.49,34.15,SCL,Seattle City Light,D,Demand,1062,megawatthours
+2025-05-21,seattle,35.01,33.69,34.35,SCL,Seattle City Light,D,Demand,1053,megawatthours
+2025-05-22,seattle,35.6,33.69,34.64,SCL,Seattle City Light,D,Demand,983,megawatthours
+2025-05-23,seattle,35.49,33.69,34.59,SCL,Seattle City Light,D,Demand,990,megawatthours
+2025-05-24,seattle,36.39,33.49,34.94,SCL,Seattle City Light,D,Demand,1038,megawatthours
+2025-05-25,seattle,35.71,33.8,34.75,SCL,Seattle City Light,D,Demand,911,megawatthours
+2025-05-26,seattle,35.49,33.91,34.7,SCL,Seattle City Light,D,Demand,944,megawatthours
+2025-05-27,seattle,36.3,33.6,34.95,SCL,Seattle City Light,D,Demand,999,megawatthours
+2025-05-28,seattle,36.9,34.2,35.55,SCL,Seattle City Light,D,Demand,1065,megawatthours
+2025-05-29,seattle,35.71,34.2,34.95,SCL,Seattle City Light,D,Demand,1116,megawatthours
+2025-05-30,seattle,36.5,33.8,35.15,SCL,Seattle City Light,D,Demand,991,megawatthours
+2025-05-31,seattle,35.2,34.0,34.6,SCL,Seattle City Light,D,Demand,1091,megawatthours
+2025-06-01,seattle,35.49,33.49,34.49,SCL,Seattle City Light,D,Demand,925,megawatthours
+2025-06-02,seattle,35.91,33.6,34.75,SCL,Seattle City Light,D,Demand,920,megawatthours
+2025-06-03,seattle,36.19,33.91,35.05,SCL,Seattle City Light,D,Demand,1052,megawatthours
+2025-06-04,seattle,35.49,34.2,34.84,SCL,Seattle City Light,D,Demand,1083,megawatthours
+2025-06-05,seattle,36.5,33.91,35.2,SCL,Seattle City Light,D,Demand,1014,megawatthours
+2025-06-06,seattle,36.7,34.5,35.6,SCL,Seattle City Light,D,Demand,1056,megawatthours
+2025-06-07,seattle,36.9,34.3,35.6,SCL,Seattle City Light,D,Demand,1165,megawatthours
+2025-06-08,seattle,37.8,34.9,36.35,SCL,Seattle City Light,D,Demand,1061,megawatthours
+2025-06-09,seattle,37.51,34.9,36.2,SCL,Seattle City Light,D,Demand,1185,megawatthours
+2025-06-10,seattle,36.9,34.11,35.5,SCL,Seattle City Light,D,Demand,1315,megawatthours
+2025-06-11,seattle,35.71,33.91,34.81,SCL,Seattle City Light,D,Demand,1234,megawatthours
+2025-06-12,seattle,35.4,33.91,34.66,SCL,Seattle City Light,D,Demand,1037,megawatthours
+2025-06-13,seattle,35.2,33.8,34.5,SCL,Seattle City Light,D,Demand,985,megawatthours
+2025-06-14,seattle,35.6,33.69,34.64,SCL,Seattle City Light,D,Demand,1021,megawatthours
+2025-06-15,seattle,35.91,34.0,34.95,SCL,Seattle City Light,D,Demand,931,megawatthours
+2025-06-16,seattle,36.19,33.8,34.99,SCL,Seattle City Light,D,Demand,964,megawatthours
+2025-06-17,seattle,36.1,33.8,34.95,SCL,Seattle City Light,D,Demand,1089,megawatthours
+2025-06-18,seattle,35.71,34.3,35.0,SCL,Seattle City Light,D,Demand,1092,megawatthours
+2025-06-19,seattle,35.71,33.8,34.75,SCL,Seattle City Light,D,Demand,1070,megawatthours
+2025-06-20,seattle,35.1,33.91,34.5,SCL,Seattle City Light,D,Demand,997,megawatthours
+2025-06-21,seattle,34.59,33.8,34.2,SCL,Seattle City Light,D,Demand,1026,megawatthours
+2025-06-22,seattle,35.6,34.11,34.86,SCL,Seattle City Light,D,Demand,948,megawatthours
+2025-06-23,seattle,36.5,34.11,35.3,SCL,Seattle City Light,D,Demand,974,megawatthours
+2025-06-24,seattle,36.81,34.2,35.51,SCL,Seattle City Light,D,Demand,1110,megawatthours
+2025-06-25,seattle,35.91,34.2,35.05,SCL,Seattle City Light,D,Demand,1165,megawatthours
+2025-06-26,seattle,35.4,34.3,34.85,SCL,Seattle City Light,D,Demand,1021,megawatthours
+2025-06-27,seattle,35.71,34.3,35.0,SCL,Seattle City Light,D,Demand,1010,megawatthours
+2025-06-28,seattle,36.3,34.3,35.3,SCL,Seattle City Light,D,Demand,1061,megawatthours
+2025-06-29,seattle,36.81,34.3,35.55,SCL,Seattle City Light,D,Demand,967,megawatthours
+2025-06-30,seattle,37.51,34.81,36.16,SCL,Seattle City Light,D,Demand,1029,megawatthours
+2025-07-01,seattle,37.51,34.59,36.05,SCL,Seattle City Light,D,Demand,1279,megawatthours
+2025-07-02,seattle,36.3,34.2,35.25,SCL,Seattle City Light,D,Demand,1247,megawatthours
+2025-07-03,seattle,35.71,34.11,34.91,SCL,Seattle City Light,D,Demand,1157,megawatthours
+2025-07-04,seattle,36.19,34.3,35.24,SCL,Seattle City Light,D,Demand,1010,megawatthours
+2025-07-05,seattle,36.3,34.11,35.2,SCL,Seattle City Light,D,Demand,1005,megawatthours
+2025-07-06,seattle,36.7,34.5,35.6,SCL,Seattle City Light,D,Demand,975,megawatthours
+2025-07-07,seattle,37.29,34.59,35.94,SCL,Seattle City Light,D,Demand,1034,megawatthours
+2025-07-08,seattle,37.29,34.59,35.94,SCL,Seattle City Light,D,Demand,1241,megawatthours
+2025-07-09,seattle,36.0,34.7,35.35,SCL,Seattle City Light,D,Demand,1273,megawatthours
+2025-07-10,seattle,36.1,34.5,35.3,SCL,Seattle City Light,D,Demand,1074,megawatthours
+2025-07-11,seattle,37.2,34.7,35.95,SCL,Seattle City Light,D,Demand,1039,megawatthours
+2025-07-12,seattle,37.09,35.2,36.15,SCL,Seattle City Light,D,Demand,1218,megawatthours
+2025-07-13,seattle,37.8,35.2,36.5,SCL,Seattle City Light,D,Demand,1126,megawatthours
+2025-07-14,seattle,36.61,35.01,35.81,SCL,Seattle City Light,D,Demand,1217,megawatthours
+2025-07-15,seattle,37.6,34.39,36.0,SCL,Seattle City Light,D,Demand,1218,megawatthours
+2025-07-16,seattle,38.19,35.4,36.8,SCL,Seattle City Light,D,Demand,1315,megawatthours
+2025-07-17,seattle,37.4,34.39,35.89,SCL,Seattle City Light,D,Demand,1396,megawatthours
+2025-07-18,seattle,35.8,34.39,35.09,SCL,Seattle City Light,D,Demand,1263,megawatthours
+2025-07-19,seattle,35.8,34.3,35.05,SCL,Seattle City Light,D,Demand,1049,megawatthours
+2025-07-20,seattle,35.29,33.91,34.6,SCL,Seattle City Light,D,Demand,971,megawatthours
+2025-07-21,seattle,36.5,34.2,35.35,SCL,Seattle City Light,D,Demand,958,megawatthours
+2025-07-22,seattle,36.61,34.5,35.55,SCL,Seattle City Light,D,Demand,1197,megawatthours
+2025-07-23,seattle,37.09,34.5,35.8,SCL,Seattle City Light,D,Demand,1175,megawatthours
+2025-07-24,seattle,36.39,34.3,35.34,SCL,Seattle City Light,D,Demand,1217,megawatthours
+2025-07-25,seattle,35.91,34.3,35.1,SCL,Seattle City Light,D,Demand,1133,megawatthours
+2025-07-26,seattle,35.91,34.11,35.01,SCL,Seattle City Light,D,Demand,1073,megawatthours
+2025-07-27,seattle,36.39,34.3,35.34,SCL,Seattle City Light,D,Demand,957,megawatthours
+2025-07-28,seattle,37.0,34.2,35.6,SCL,Seattle City Light,D,Demand,1017,megawatthours
+2025-07-29,seattle,37.29,34.5,35.89,SCL,Seattle City Light,D,Demand,1191,megawatthours
+2025-07-30,seattle,37.29,34.59,35.94,SCL,Seattle City Light,D,Demand,1228,megawatthours
+2025-07-31,seattle,36.81,34.81,35.81,SCL,Seattle City Light,D,Demand,1239,megawatthours
+2025-08-01,seattle,36.3,34.5,35.4,SCL,Seattle City Light,D,Demand,1180,megawatthours
+2025-08-02,seattle,36.1,34.59,35.34,SCL,Seattle City Light,D,Demand,1197,megawatthours
+2025-08-03,seattle,35.91,34.39,35.15,SCL,Seattle City Light,D,Demand,995,megawatthours
+2025-08-04,seattle,35.91,34.59,35.25,SCL,Seattle City Light,D,Demand,999,megawatthours
+2025-08-05,seattle,36.61,34.5,35.55,SCL,Seattle City Light,D,Demand,1125,megawatthours
+2025-08-06,seattle,36.0,34.81,35.41,SCL,Seattle City Light,D,Demand,1167,megawatthours
+2025-08-07,seattle,35.8,34.59,35.2,SCL,Seattle City Light,D,Demand,1096,megawatthours
+2025-08-08,seattle,36.5,34.2,35.35,SCL,Seattle City Light,D,Demand,1011,megawatthours
+2025-08-09,seattle,36.9,34.59,35.75,SCL,Seattle City Light,D,Demand,1127,megawatthours

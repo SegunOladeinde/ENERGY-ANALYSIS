@@ -14,8 +14,8 @@ env/
 config/config.yaml
 
 # Data / outputs
-data/
-data/raw/*
+!data/
+!data/raw/*
 
 logs/
 *.log
