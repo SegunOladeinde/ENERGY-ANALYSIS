@@ -1,5 +1,4 @@
 datetime,city,tmax_f,tmin_f,avg_temp_f
-2025-05-14,houston,38.41,36.3,37.35
 2025-05-15,houston,38.3,36.5,37.4
 2025-05-16,houston,38.1,36.9,37.5
 2025-05-17,houston,38.19,36.7,37.45
@@ -87,3 +86,4 @@ datetime,city,tmax_f,tmin_f,avg_temp_f
 2025-08-07,houston,38.8,36.61,37.7
 2025-08-08,houston,38.8,36.7,37.75
 2025-08-09,houston,38.61,36.61,37.61
+2025-08-10,houston,38.19,36.5,37.34

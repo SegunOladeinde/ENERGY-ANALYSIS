@@ -1,5 +1,4 @@
 datetime,missing_temp,missing_energy,temp_outlier,energy_outlier
-2025-05-15,0,0,0,0
 2025-05-16,0,0,0,0
 2025-05-17,0,0,0,0
 2025-05-18,0,0,0,0
@@ -86,3 +85,4 @@ datetime,missing_temp,missing_energy,temp_outlier,energy_outlier
 2025-08-07,0,0,0,0
 2025-08-08,0,0,0,0
 2025-08-09,0,0,0,0
+2025-08-10,0,0,0,0
