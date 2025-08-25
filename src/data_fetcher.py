@@ -28,11 +28,11 @@ def fetch_noaa_weather(city, station_id, days_back=90):
     start_date = end_date - timedelta(days=days_back)
 
     params = {
-        "datasetid": "GHCND",                        # ✅ Correct key
-        "stationid": station_id,                     # ✅ Correct key
+        "datasetid": "GHCND",                        
+        "stationid": station_id,                 
         "startdate": start_date.isoformat(),
         "enddate": end_date.isoformat(),
-        "datatypeid": "TMAX,TMIN",                   # ✅ Correct key
+        "datatypeid": "TMAX,TMIN",                   
         "limit": 1000,
         "units": "metric"
     }
@@ -43,7 +43,7 @@ def fetch_noaa_weather(city, station_id, days_back=90):
         response = requests.get(base_url, headers=headers, params=params)
         response.raise_for_status()
 
-        data = response.json().get("results", [])    # ✅ Get only the results list
+        data = response.json().get("results", [])    
         print(f"📦 NOAA Response Sample: {data[:2]}")
 
         if not data:
