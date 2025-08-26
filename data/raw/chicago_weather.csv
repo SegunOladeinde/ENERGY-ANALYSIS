@@ -1,5 +1,4 @@
 datetime,city,tmax_f,tmin_f,avg_temp_f
-2025-05-27,chicago,35.71,34.0,34.86
 2025-05-28,chicago,35.1,34.3,34.7
 2025-05-29,chicago,35.8,34.11,34.95
 2025-05-30,chicago,36.1,34.11,35.11
@@ -87,3 +86,4 @@ datetime,city,tmax_f,tmin_f,avg_temp_f
 2025-08-20,chicago,36.39,35.4,35.89
 2025-08-21,chicago,36.39,35.29,35.84
 2025-08-22,chicago,36.9,35.1,36.0
+2025-08-23,chicago,37.09,35.1,36.09
