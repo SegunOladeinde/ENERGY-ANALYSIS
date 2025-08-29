@@ -1,7 +1,4 @@
 datetime,city,tmax_f,tmin_f,avg_temp_f,respondent,respondent-name,type,type-name,energy_consumption_mw,value-units
-2025-05-29,chicago,35.8,34.11,34.95,PJM,"PJM Interconnection, LLC",D,Demand,87674,megawatthours
-2025-05-30,chicago,36.1,34.11,35.11,PJM,"PJM Interconnection, LLC",D,Demand,91119,megawatthours
-2025-05-31,chicago,35.2,33.8,34.5,PJM,"PJM Interconnection, LLC",D,Demand,90934,megawatthours
 2025-06-01,chicago,35.8,33.4,34.6,PJM,"PJM Interconnection, LLC",D,Demand,80593,megawatthours
 2025-06-02,chicago,37.2,33.8,35.5,PJM,"PJM Interconnection, LLC",D,Demand,81792,megawatthours
 2025-06-03,chicago,37.71,35.6,36.66,PJM,"PJM Interconnection, LLC",D,Demand,94629,megawatthours
@@ -86,9 +83,9 @@ datetime,city,tmax_f,tmin_f,avg_temp_f,respondent,respondent-name,type,type-name
 2025-08-21,chicago,36.39,35.29,35.84,PJM,"PJM Interconnection, LLC",D,Demand,111418,megawatthours
 2025-08-22,chicago,36.9,35.1,36.0,PJM,"PJM Interconnection, LLC",D,Demand,104521,megawatthours
 2025-08-23,chicago,37.09,35.1,36.09,PJM,"PJM Interconnection, LLC",D,Demand,112680,megawatthours
-2025-05-29,houston,38.19,35.91,37.05,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,63411,megawatthours
-2025-05-30,houston,37.71,36.3,37.0,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,70745,megawatthours
-2025-05-31,houston,37.8,36.3,37.05,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,63854,megawatthours
+2025-08-24,chicago,36.1,34.7,35.4,PJM,"PJM Interconnection, LLC",D,Demand,108741,megawatthours
+2025-08-25,chicago,35.8,34.3,35.05,PJM,"PJM Interconnection, LLC",D,Demand,108406,megawatthours
+2025-08-26,chicago,36.19,34.2,35.2,PJM,"PJM Interconnection, LLC",D,Demand,107478,megawatthours
 2025-06-01,houston,38.1,36.0,37.05,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,67529,megawatthours
 2025-06-02,houston,38.1,36.3,37.2,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,71638,megawatthours
 2025-06-03,houston,37.8,36.19,36.99,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,74715,megawatthours
@@ -173,9 +170,9 @@ datetime,city,tmax_f,tmin_f,avg_temp_f,respondent,respondent-name,type,type-name
 2025-08-21,houston,38.41,36.7,37.55,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,77756,megawatthours
 2025-08-22,houston,37.71,36.3,37.0,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,76291,megawatthours
 2025-08-23,houston,38.3,36.3,37.3,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,75153,megawatthours
-2025-05-29,new_york,35.49,34.3,34.89,NYIS,New York Independent System Operator,D,Demand,16848,megawatthours
-2025-05-30,new_york,36.3,35.01,35.66,NYIS,New York Independent System Operator,D,Demand,16812,megawatthours
-2025-05-31,new_york,35.49,34.11,34.8,NYIS,New York Independent System Operator,D,Demand,17204,megawatthours
+2025-08-24,houston,38.7,36.5,37.6,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,75614,megawatthours
+2025-08-25,houston,38.5,36.5,37.5,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,80223,megawatthours
+2025-08-26,houston,38.5,36.3,37.4,ERCO,"Electric Reliability Council of Texas, Inc.",D,Demand,80959,megawatthours
 2025-06-01,new_york,35.4,33.8,34.6,NYIS,New York Independent System Operator,D,Demand,15610,megawatthours
 2025-06-02,new_york,35.91,34.11,35.01,NYIS,New York Independent System Operator,D,Demand,15335,megawatthours
 2025-06-03,new_york,36.7,34.39,35.55,NYIS,New York Independent System Operator,D,Demand,16650,megawatthours
@@ -260,9 +257,9 @@ datetime,city,tmax_f,tmin_f,avg_temp_f,respondent,respondent-name,type,type-name
 2025-08-21,new_york,36.0,34.7,35.35,NYIS,New York Independent System Operator,D,Demand,18250,megawatthours
 2025-08-22,new_york,37.09,34.59,35.84,NYIS,New York Independent System Operator,D,Demand,18266,megawatthours
 2025-08-23,new_york,37.0,35.49,36.25,NYIS,New York Independent System Operator,D,Demand,20500,megawatthours
-2025-05-29,phoenix,38.89,36.7,37.8,AZPS,Arizona Public Service Company,D,Demand,5184,megawatthours
-2025-05-30,phoenix,39.2,36.1,37.65,AZPS,Arizona Public Service Company,D,Demand,5095,megawatthours
-2025-05-31,phoenix,39.0,37.0,38.0,AZPS,Arizona Public Service Company,D,Demand,5787,megawatthours
+2025-08-24,new_york,36.81,35.49,36.15,NYIS,New York Independent System Operator,D,Demand,19864,megawatthours
+2025-08-25,new_york,37.4,35.8,36.6,NYIS,New York Independent System Operator,D,Demand,20258,megawatthours
+2025-08-26,new_york,36.7,35.1,35.9,NYIS,New York Independent System Operator,D,Demand,21309,megawatthours
 2025-06-01,phoenix,37.9,35.71,36.8,AZPS,Arizona Public Service Company,D,Demand,5805,megawatthours
 2025-06-02,phoenix,37.71,35.49,36.6,AZPS,Arizona Public Service Company,D,Demand,4362,megawatthours
 2025-06-03,phoenix,38.5,36.61,37.55,AZPS,Arizona Public Service Company,D,Demand,4379,megawatthours
@@ -347,9 +344,9 @@ datetime,city,tmax_f,tmin_f,avg_temp_f,respondent,respondent-name,type,type-name
 2025-08-21,phoenix,40.21,37.71,38.96,AZPS,Arizona Public Service Company,D,Demand,7899,megawatthours
 2025-08-22,phoenix,39.99,37.71,38.85,AZPS,Arizona Public Service Company,D,Demand,7921,megawatthours
 2025-08-23,phoenix,39.79,37.99,38.89,AZPS,Arizona Public Service Company,D,Demand,7893,megawatthours
-2025-05-29,seattle,35.71,34.2,34.95,SCL,Seattle City Light,D,Demand,1116,megawatthours
-2025-05-30,seattle,36.5,33.8,35.15,SCL,Seattle City Light,D,Demand,991,megawatthours
-2025-05-31,seattle,35.2,34.0,34.6,SCL,Seattle City Light,D,Demand,1091,megawatthours
+2025-08-24,phoenix,39.9,37.99,38.95,AZPS,Arizona Public Service Company,D,Demand,7365,megawatthours
+2025-08-25,phoenix,39.09,36.39,37.74,AZPS,Arizona Public Service Company,D,Demand,7910,megawatthours
+2025-08-26,phoenix,38.5,36.61,37.55,AZPS,Arizona Public Service Company,D,Demand,6885,megawatthours
 2025-06-01,seattle,35.49,33.49,34.49,SCL,Seattle City Light,D,Demand,925,megawatthours
 2025-06-02,seattle,35.91,33.6,34.75,SCL,Seattle City Light,D,Demand,920,megawatthours
 2025-06-03,seattle,36.19,33.91,35.05,SCL,Seattle City Light,D,Demand,1052,megawatthours
@@ -434,3 +431,6 @@ datetime,city,tmax_f,tmin_f,avg_temp_f,respondent,respondent-name,type,type-name
 2025-08-21,seattle,36.61,34.11,35.36,SCL,Seattle City Light,D,Demand,1158,megawatthours
 2025-08-22,seattle,37.71,34.5,36.11,SCL,Seattle City Light,D,Demand,1121,megawatthours
 2025-08-23,seattle,37.8,35.01,36.41,SCL,Seattle City Light,D,Demand,1292,megawatthours
+2025-08-24,seattle,37.8,35.1,36.45,SCL,Seattle City Light,D,Demand,1215,megawatthours
+2025-08-25,seattle,37.9,34.9,36.4,SCL,Seattle City Light,D,Demand,1265,megawatthours
+2025-08-26,seattle,37.6,35.01,36.3,SCL,Seattle City Light,D,Demand,1413,megawatthours
